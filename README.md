@@ -19,16 +19,25 @@ Pairing should begin on a Monday (the start of the sprint). Each developer has a
 3. Tech leads should not pair together unless this breaks Rule 1 or 2.
 
 Example output:
+
 MONDAY
+
 New Pair: DEVELOPER Tom and TECH LEAD Mark
+
 New Pair: DEVELOPER Kristen and DEVELOPER Jim
+
 New Pair: DEVELOPER Jason and DEVELOPER Matt
+
 New Pair: DEVELOPER Cory and TECH LEAD Kevin
 
 TUESDAY
+
 Paired 2 days: DEVELOPER Tom and TECH LEAD Mark
+
 Paired 2 days: DEVELOPER Kristen and DEVELOPER Jim
+
 Paired 2 days: DEVELOPER Jason and DEVELOPER Matt
+
 Paired 2 days: DEVELOPER Cory and TECH LEAD Kevin
 
 ....
